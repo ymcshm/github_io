@@ -262,22 +262,3 @@ article {
   margin-bottom: 0;
 }
 
-/* メディアクエリ */
-@media (min-width: 769px) {
-  .blog-card,
-  .blog-card a {
-    flex-direction: row;
-  }
-
-  .blog-card {
-    width: 900px;
-  }
-
-  .blog-card-thumbnail img {
-    width: 200px;
-  }
-
-  .blog-card-content {
-    width: 700px;
-  }
-}
